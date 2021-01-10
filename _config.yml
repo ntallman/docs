@@ -54,7 +54,6 @@ plugins:
 
 ## Just-the-Docs config
 color_scheme: dark
-#logo: "assets/images/metaArchive.png"
 search_enabled: true
 search:
   # Split pages into sections that can be searched individually
