@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: LOCKSS
-permalink: /lockss/
+has_children: true
 ---
 
 This page is about LOCKSS.
