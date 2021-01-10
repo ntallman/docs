@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Adding Plugins
-parent: Tutorials
+parent: Member Tutorials
+grand_parent: Tutorials
 ---
 
 How to add new plugins.
