@@ -82,6 +82,8 @@ search:
 aux_links:
   "MetaArchive":
     - "//metaarchive.org"
+  "Support":
+   - "mailto:support@metaarchive.org"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
